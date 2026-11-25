@@ -5,7 +5,7 @@
 The advice: a grandmother's test for a partner - soup when you are
 sick, not flowers when you are well. One sentence, a real voice
 recalling a real person, specific and true beyond the moment.
-Gate: 1-200 characters, one sentence; this entry is 112 characters,
+Gate: 1-200 characters, one sentence; this entry is 107 characters,
 tight enough to read in a single breath.
 """
 
